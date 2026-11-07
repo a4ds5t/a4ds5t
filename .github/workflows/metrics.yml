@@ -22,8 +22,6 @@ jobs:
           plugin_languages: yes
           plugin_isocalendar: yes
           plugin_achievements: yes
-          plugin_lines: yes
-          commit_message: "Update GitHub metrics"
 
       - name: Keep only the last 7 days of workflow runs
         if: always()
