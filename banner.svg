@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
-  <rect width="1200" height="320" rx="18" fill="#FAF6EE"/>
-  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#E4DCCB" stroke-width="2"/>
-  <text x="70" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="4" fill="#8A7F6B">ENGINEER · BUILDER · a4ds5t</text>
-  <text x="70" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" fill="#1F1D1A">Armand van der Swaerdt</text>
-  <text x="70" y="230" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#4A4439">Engineer with too many ideas.</text>
-  <line x1="70" y1="265" x2="1130" y2="265" stroke="#E4DCCB" stroke-width="2"/>
-  <text x="70" y="298" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#8A7F6B">a4ds5t.soholocal.nl</text>
-</svg>
