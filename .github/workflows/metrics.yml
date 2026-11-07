@@ -1,0 +1,22 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: lowlighter/metrics@v3.31
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: a4ds5t
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          commit_message: "Update GitHub metrics"
