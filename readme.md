@@ -1,21 +1,17 @@
-# Welcome on my profile page!
-<!-- print(("dralla"[::-1]+"s").capitalize()) -->
+# Hi, I'm Armand.
 
-<!-- ---
-👨🏻‍💻 **Busy With**
-* Learning new Skills.
-* Building small Projects.
-* Being helpful. -->
+Engineer with too many ideas. Vibe coding finally lets me build the things I always wanted to build.
 
----
-📊 **Coding Stats**
-<!--START_SECTION:waka-->
+Ideas are cheap, and so is speed without taste. The rare part is finding a path nobody else takes, then shipping it.
 
-```txt
-From: 30 October 2026 - To: 06 November 2026
+## Building
 
-No activity tracked
-```
+- [Almost Christmas](https://xmas.soholocal.nl/): a live countdown to 25 December.
+- [StartPage](https://start.soholocal.nl/): a fast, minimal browser start page.
 
-<!--END_SECTION:waka-->
----
+## Find me
+
+- [a4ds5t.soholocal.nl](https://a4ds5t.soholocal.nl/en/)
+- [X @a4ds5t](https://x.com/a4ds5t)
+- [Bluesky](https://bsky.app/profile/a4ds5t.bsky.social)
+- [Build in Public](https://buildinpublic.com/x/a4ds5t)
